@@ -1,0 +1,6 @@
+MonitoringServiceClient:
+    MonitoringServiceUrl:
+        settings-key: MonitoringServiceUrl
+
+EncryptionPrivateKey:
+    settings-key: Bitcoin-SignService-EncryptionPrivateKey
