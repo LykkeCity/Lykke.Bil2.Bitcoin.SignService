@@ -5,4 +5,4 @@ MonitoringServiceClient:
 EncryptionPrivateKey:
     settings-key: Bitcoin-SignService-EncryptionPrivateKey
 NetworkType:
-    settings-key: Bitcoin-SignService-NetworkType
+    settings-key: Bitcoin-NetworkType
